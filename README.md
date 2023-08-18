@@ -10,7 +10,7 @@ A Convolutional Neural Network (CNN) model is employed to achieve this classific
 
 ## Objectives
 
-1. Collect and preprocess lung scan images.
+1. Preprocess lung scan images.
 2. Design and train a CNN model using R and the `keras` library.
 3. Evaluate the model's performance on a test dataset.
 
